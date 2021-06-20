@@ -1,0 +1,930 @@
+[
+  {
+    "link": "https://www.upwork.com/#main",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//ab/account-security/login",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//ab/account-security/login",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//signup/?dest=home",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com/undefined",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com/undefined",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com/undefined",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//ab/account-security/login",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//signup/?dest=home",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//talent-marketplace/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//cat/dev-it",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//cat/design-creative",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//cat/sales-and-marketing",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//cat/writing-translation",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//cat/admin-customer-support",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//cat/finance-accounting",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/logo-design",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/articles-blog-posts",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/wordpress",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/social-media-marketing",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/video-editing",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/seo",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//staffing/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//staffing/development",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//staffing/design-creative",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//staffing/marketing",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//work",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//freelance-jobs/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//work",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//freelance-jobs/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//success-stories",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//i/how-it-works/client/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//reviews/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//i/how-it-works/freelancer/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//guides/getting-started-as-a-freelancer",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//guides/growing-your-freelance-career",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//guides/hiring-and-working-with-independent-talent",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//resources",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//success-stories",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//i/how-it-works/client/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//reviews/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//i/how-it-works/freelancer/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//guides/getting-started-as-a-freelancer",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//guides/growing-your-freelance-career",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//guides/hiring-and-working-with-independent-talent",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//resources",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//enterprise/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//signup/?accountType=client",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//signup/?accountType=freelancer",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//signup/?accountType=client",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//staffing/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//signup/?accountType=freelancer",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/data-entry-specialists/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/video-editors/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/data-analysts/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/shopify-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/ruby-on-rails-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/android-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/bookkeepers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/content-writers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/copywriters/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/database-administrators/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/data-scientists/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/front-end-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/game-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/graphic-designers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/ios-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/java-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/javascript-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/logo-designers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/mobile-app-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/php-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/python-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/resume-writers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/seo-experts/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/social-media-managers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/software-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/software-engineers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/technical-writers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/ui-designers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/ux-designers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/virtual-assistants/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/web-designers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/wordpress-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/blockchain-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/golang-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/nodejs-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/vue-js-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/hr-consultants/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/microsoft-power-bi-freelancers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/instructional-designers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/react-js-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/videographers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/html5-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/ghostwriters/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/unity-3d-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/business-consultants/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/coders/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/marketing-consultants/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/web-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/illustrators/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/google-adwords-experts/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/digital-marketers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/project-managers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/arduino-programmers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/ruby-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/angularjs-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/full-stack-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/email-marketing-consultants/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/react-native-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/swift-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/css-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/google-sketchup-freelancers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/back-end-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/smartsheet-freelancers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/zoom-video-conferencing-freelancers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/graphic-designers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/web-designers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/wordpress-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/writers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/curriculum-developer/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/fashion-designers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/woocommerce-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/d3-js-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/squarespace-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/ghostwriters/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/shopify-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/technical-support-agents/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/accountants/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/virtual-assistants/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/product-developers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/cad-designers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/tax-preparers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/ebook-designers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/zoho-crm-freelancers/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/google-adwords-experts/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-atlanta-ga/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-austin-tx/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-brooklyn-ny/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-charlotte-nc/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-chicago-il/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-dallas-tx/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-denver-co/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-houston-tx/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-las-vegas-nv/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-los-angeles-ca/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-miami-fl/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-new-york-ny/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-orlando-fl/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-philadelphia-pa/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-phoenix-az/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-portland-or/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-san-diego-ca/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-san-francisco-ca/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-san-jose-ca/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/freelancers-in-seattle-wa/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/resume-writing",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/seo",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/translation",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/transcripts",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/virtual-assistant",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/email-marketing",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/web-mobile-design",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/proofreading-editing",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/business-consulting",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/logo-design",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/architecture-interior-design",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/branding",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/social-media-management",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/video-editing",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/lead-generation",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/content-marketing",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/surveys",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/landscape-design",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/photoshop-editing",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/mobile-app-development",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/data-entry",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/building-information-modeling",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/podcast-editing",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/wellness",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/hr-consulting",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/video-marketing",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/wordpress",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/ecommerce-development",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/influencer-marketing",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/public-relations",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/qa",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/podcast-marketing",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//i/how-it-works/client/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//talent-marketplace/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//services/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//staffing",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//enterprise/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//i/payroll-client",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//direct-contracts/cl",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//hire/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//l/us/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//i/how-it-works/freelancer/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//direct-contracts/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//freelance-jobs/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//freelance-jobs/united-states/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com/https://support.upwork.com/hc/en-us",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//customer-success",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//reviews/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//resources",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//blog",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com/https://community.upwork.com/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//about/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//about/team/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com/https://investors.upwork.com/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com/https://careers.upwork.com/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//ppc/foundation/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//press",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//about/contact/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//trust-and-safety/security/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//documents/uk-transparency-statement",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com/https://www.facebook.com/upwork",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com/https://www.linkedin.com/company/upwork",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com/https://twitter.com/Upwork",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com/https://www.youtube.com/channel/UCvxGFOnwUBDHHcxuPqhe4CQ",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com/https://www.instagram.com/upworkinc/",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com/https://apps.apple.com/us/developer/upwork-global-inc/id329377609",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com/https://play.google.com/store/apps/dev?id=8802639270489632480",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//legal",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//legal#privacy",
+    "statusCode": 200
+  },
+  {
+    "link": "https://www.upwork.com//legal#accessibility",
+    "statusCode": 200
+  }
+]
